@@ -1,0 +1,58 @@
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\concrt140.dll
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\cvextern.dll
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\msvcp140.dll
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\opencv_ffmpeg320_64.dll
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\vcruntime140.dll
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Emgu.CV.UI.dll
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Emgu.CV.UI.GL.dll
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Emgu.CV.World.dll
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\ZedGraph.dll
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Emgu.CV.UI.xml
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Emgu.CV.UI.GL.xml
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Emgu.CV.World.xml
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+c:\users\bora\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\concrt140.dll
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\cvextern.dll
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\msvcp140.dll
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\opencv_ffmpeg320_64.dll
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\vcruntime140.dll
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\ZedGraph.dll
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Emgu.CV.World.xml
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\Ned\Desktop\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\concrt140.dll
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\cvextern.dll
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\msvcp140.dll
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\opencv_ffmpeg320_64.dll
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\vcruntime140.dll
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\ZedGraph.dll
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Emgu.CV.UI.xml
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Emgu.CV.UI.GL.xml
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Emgu.CV.World.xml
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+D:\Mühendislik\2017 - 2018\Güz Dönemi\Yazlab 1\Proje 1\150202114 - 130202085\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
